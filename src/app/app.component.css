@@ -1,0 +1,40 @@
+header {
+    text-align: center; 
+    background-color: black; 
+    color: darkorange; 
+    font-weight: bold; 
+    font-size: 24px;
+}
+
+div {
+    padding: 20px; 
+    text-align: center;
+}
+
+label {
+    color: darkred; 
+    font-weight: bold; 
+    font-family: sans-serif;
+    display: block;
+    margin-bottom: 20px;
+}
+
+p {
+    color: darkred; 
+    font-weight: bold; 
+    font-family: sans-serif; 
+}
+
+span, input {
+    font-weight: bold;
+    color: darkorchid;
+}
+
+button {
+    border: 3px dashed darkmagenta; 
+    border-radius: 10px; 
+    background-color: chartreuse; 
+    font-size: 16px;
+    margin-right: 10px;
+    cursor: pointer;
+}
